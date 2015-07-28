@@ -11,5 +11,10 @@
  * file per style scope.
  *
  *= require_tree .
+ *= require grayscale
+ *= require font-awesome
+ *= require bootstrap/glyphicons
  *= require_self
  */
+
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);

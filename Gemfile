@@ -25,6 +25,18 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
 
+# Bootstrap
+gem 'bootstrap'
+
+# Twitter Bootstrap Rails
+gem 'twitter-bootstrap-rails'
+
+# Font awesome
+gem 'font-awesome-rails'
+
+#Glyphicons
+gem 'bootstrap-glyphicons'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
